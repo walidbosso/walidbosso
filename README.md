@@ -13,12 +13,13 @@
 ### Contact Me:
 
 
-  <a href="https://www.linkedin.com/in/walidbosso"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/walidbosso"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   [![website](https://img.shields.io/badge/Website-3693F3?style=flat-square&logo=icloud&logoColor=white)](http://walidbosso.byethost12.com/)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:walidbosso24@gmail.com)
   [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+212658930956&text=Hi!)](https://api.whatsapp.com/send?phone=+212658930956&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/wildboss)
-  
+
+  [![Adobe Acrobat Reader](https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white)](http://walidbosso.byethost12.com/wp-content/uploads/2023/09/CV_BOUSSOU_Walid_2023.pdf)
    
 </p>
 
