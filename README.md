@@ -1,8 +1,15 @@
+<p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=700&height=80&lines=Walid+BOUSSOU;Specialized+Master's+Student+%7C+Computer+Science+Engineering+;Full+Stack+Developer+%7C+J2EE+with+Angular+%7C+MERN+%7C+Laravel+%7C+Python" alt="Typing SVG" />
+</a>
+<br/>
+
+  
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛s/>! <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### Congrats you found me, I'm Walid BOUSSOU a Computer Science Engineering Student
+### Congrats you found me
 
 
 - 👨‍💻 I’m currently working on web development technologies like Spring Boot, React, Angular etc.
@@ -79,6 +86,24 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&theme=dark&line_height=30" alt="Walid's github stats"/>
 </a>
 </p >
+<details>
+<summary>📈 More Stats</summary>
+<br>
+<p align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=dracula)
+</p>
+
+<br>
+Currently Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/21omxceo7j24upe246denzrgy)
+
+</p>
+</details>
 <br> 
 <p align="center">
 Thanks for Visiting! You can take a look at my projects 👇😄
