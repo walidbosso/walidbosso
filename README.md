@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/drkostas">
+<a href="https://github.com/walidbosso">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=700&height=80&lines=Walid+BOUSSOU;Specialized+Master's+Student+%7C+Computer+Science+Engineering+;Full+Stack+Developer+%7C+J2EE+with+Angular+%7C+MERN+%7C+Laravel+%7C+Python" alt="Typing SVG" />
 </a>
 <br/>
@@ -15,20 +15,19 @@
 - 👨‍💻 I’m currently working on web development technologies like Spring Boot, React, Angular etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-<p align="center">
+
 
 ### Contact Me:
 
-
+<p align="center">
   <a href="https://www.linkedin.com/in/walidbosso"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  [![website](https://img.shields.io/badge/Website-3693F3?style=flat-square&logo=icloud&logoColor=white)](http://walidbosso.byethost12.com/)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:walidbosso24@gmail.com)
-  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+212658930956&text=Hi!)](https://api.whatsapp.com/send?phone=+212658930956&text=Olá!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/wildboss)
-
-  [![Adobe Acrobat Reader](https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white)](http://walidbosso.byethost12.com/wp-content/uploads/2023/09/CV_BOUSSOU_Walid_2023.pdf)
-   
+  <a href="http://walidbosso.byethost12.com/"><img src="https://img.shields.io/badge/Website-3693F3?style=flat-square&logo=icloud&logoColor=white" /></a>
+  <a href="mailto:walidbosso24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://api.whatsapp.com/send?phone=+212658930956&text=Hi!"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://t.me/wildboss"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a><br>
+  <a href="http://walidbosso.byethost12.com/wp-content/uploads/2023/09/CV_BOUSSOU_Walid_2023.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
 </p>
+
 
 ---
 
@@ -86,25 +85,28 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&theme=dark&line_height=30" alt="Walid's github stats"/>
 </a>
 </p >
-<details>
-<summary>📈 More Stats</summary>
-<br>
-<p align="center">
+<details align="center">
+  <summary>📈 More Stats</summary>
+  <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=dracula) 
+  <p align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=dracula)
-</p>
+  ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=dracula) 
 
-<br>
-Currently Listening to:
+  ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=dracula) 
+  ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=dracula)
+  </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/21omxceo7j24upe246denzrgy)
 
-</p>
+ 
 </details>
-<br> 
+<div align="center">
+ Currently Listening to:
+
+  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/21omxceo7j24upe246denzrgy)
+</div>
+
+
 <p align="center">
 Thanks for Visiting! You can take a look at my projects 👇😄
 </p >
