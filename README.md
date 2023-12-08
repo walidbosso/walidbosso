@@ -78,7 +78,7 @@
 </p >
 <br> 
 <p align="center">
-Thanks for Visiting! 😄👋
+Thanks for Visiting! You can take a look at my projects 👇😄
 </p >
 
 
