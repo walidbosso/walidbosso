@@ -24,7 +24,7 @@
 
 ---
 
-### Languages and Tools:
+## Languages and Tools:
 
 #### Programming Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
