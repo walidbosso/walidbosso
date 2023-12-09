@@ -1,5 +1,5 @@
 <a href="https://github.com/walidbosso">
- <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">    
+ <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
 </a>
 <p align="center">
 <a href="https://github.com/walidbosso">
@@ -42,7 +42,9 @@
 
 ---
 
-## Skills:
+<h3 align="center">
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> Skills <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+</h3>
 
 <br>
 <div align="center">
@@ -105,6 +107,10 @@
 
 ---
 
+<h3 align="center">
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+</h3>
+
 <br>
 <p align="center">
 <a href="https://github.com/walidbosso">
@@ -161,10 +167,18 @@
 
 ---
 
-<div align="center">
- Currently Coding and Listening to:
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" >
+ <img align="right"  src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" > 
+ <h4 align="center">
+  Currently Coding and Listening to  
+</h4>
+<img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" >
+ <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > 
 
+ <div align="center">
+  
   [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)
+
 </div>
 
 
