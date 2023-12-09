@@ -11,14 +11,15 @@ jobs:
       - name: Generate color for day of week
         id: color
         # RGB + CMYK = 7 week days
-        run: echo "color=$(echo 'red green blue cyan magenta yellow black' | cut -d ' ' -f `date +%u`)" >> "$GITHUB_OUTPUT"
+        run: echo "color=$(echo 'red green blue cyan magenta violet black' | cut -d ' ' -f `date +%u`)" >> "$GITHUB_OUTPUT"
       - name: generate github-snake.svg
         # uses: aelassas/snk/svg-only@main
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=${{ steps.color.outputs.color }}
+            dist/github-snake.svg?palette=github-dark?color_snake=${{ steps.color.outputs.color }}
+            
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: push github-snake.svg to the output branch
