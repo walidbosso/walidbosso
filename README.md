@@ -159,11 +159,16 @@
   [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)
 </div>
 
- ![snake gif](https://github.com/walidbosso/walidbosso/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
 Thanks for Visiting! You can take a look at my projects 👇😄
 </p >
+
+
+
+
+
+ ![snake gif](https://github.com/walidbosso/walidbosso/blob/output/github-contribution-grid-snake.svg)
 
 
 
