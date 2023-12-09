@@ -7,7 +7,7 @@
 </a>
 <br/>
 
- ![snake gif](https://github.com/walidbosso/walidbosso/blob/output/github-contribution-grid-snake.svg)
+
  
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛s/>! <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px">
 </a>
@@ -159,6 +159,7 @@
   [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)
 </div>
 
+ ![snake gif](https://github.com/walidbosso/walidbosso/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
 Thanks for Visiting! You can take a look at my projects 👇😄
