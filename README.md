@@ -20,7 +20,7 @@
 </a>
 
 
-### Congrats you found me
+### Congratulations you found me
 
 - 👨‍💻 I’m currently working on web development technologies like **Spring Boot, React, Angular** etc.
 - 📚 I’m currently learning **React Native, Selenium and Machine Learning technologies** 😅
