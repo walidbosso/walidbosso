@@ -117,10 +117,10 @@
 
   <p align="center">
 
-  [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=dracula)](https://github.com/walidbosso)
+  [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=github_dark)](https://github.com/walidbosso)
 
-  [![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=dracula)](https://github.com/walidbosso) 
-  [![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=dracula)](https://github.com/walidbosso)
+  [![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=github_dark)](https://github.com/walidbosso) 
+  [![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=github_dark)](https://github.com/walidbosso)
   </p>
 
 
@@ -151,6 +151,14 @@
  </p>
 </details>
 
+<p align="center"><!-- add `p` for margin-bottom -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake.svg">
+  </picture>
+</p>
+
 ---
 
 <div align="center">
@@ -160,22 +168,12 @@
 </div>
 
 
+
 <p align="center">
 Thanks for Visiting! You can take a look at my projects 👇😄
 </p >
 
 
-
-![Snake animation](https://github.com/walidbosso/walidbosso/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
-
-<p><!-- add `p` for margin-bottom -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake.svg">
-  </picture>
-</p>
 
 
 
