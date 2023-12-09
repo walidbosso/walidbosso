@@ -166,9 +166,7 @@ Thanks for Visiting! You can take a look at my projects 👇😄
 
 
 
-
-
- ![snake gif](https://github.com/walidbosso/walidbosso/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/walidbosso/walidbosso/blob/output/github-contribution-grid-snake2.svg)
 
 
 
