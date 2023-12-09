@@ -9,7 +9,7 @@
 
 
  
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛s/>! <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px">
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛/>! <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px">
 </a>
 
 
@@ -20,7 +20,7 @@
 </a>
 
 
-### Congratulations you found me
+### Congratulations   you found me
 
 - 👨‍💻 I’m currently working on web development technologies like **Spring Boot, React, Angular** etc.
 - 📚 I’m currently learning **React Native, Selenium and Machine Learning technologies** 😅
