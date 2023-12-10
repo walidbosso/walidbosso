@@ -7,9 +7,9 @@
  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Walid+BOUSSOU;Specialized+Master's+Student+%7C+Computer+Science+Engineering+;Full+Stack+Developer+%7C+J2EE+with+Angular+%7C+MERN+%7C+Laravel+%7C+Python; ; " alt="Typing SVG" />
 </a>
 <br/>
-
+<a href="https://github.com/walidbosso">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
-
+</a>
  
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px">
 </a>
@@ -184,14 +184,16 @@
 </div>
 
 
-
+<!--
 <p align="center">
 Thanks for Visiting! You can take a look at my projects 👇😄
 </p >
+-->
 
 
-
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+ <p align="center">
+  <a href="https://github.com/walidbosso"><img src="https://readme-typing-svg.herokuapp.com/?lines=💙%20Thanks%20For%20Visitng!%20💙;Take%20A%20Look%20At%20My%20Projects%20👇%20👀;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=22%11"></a>
+</p>
 
 
 
