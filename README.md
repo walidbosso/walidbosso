@@ -180,6 +180,8 @@
   <br>
 
   <p align="center">
+
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Contribution ststa" width="60%" height="50%">
    
   [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=github_dark)](https://github.com/walidbosso)
 
@@ -188,7 +190,7 @@
   
   [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=blue-green)](https://github.com/walidbosso/github-readme-streak-stats)
 
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="Your SVG Image" width="60%" height="50%">
+
 
 
 
