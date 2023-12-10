@@ -187,6 +187,11 @@
   [![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=github_dark)](https://github.com/walidbosso)
   
   [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=blue-green)](https://github.com/walidbosso/github-readme-streak-stats)
+
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="Your SVG Image" width="60%" height="50%">
+
+
+
   </p> 
 </details>
 
