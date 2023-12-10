@@ -42,7 +42,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+---
 
 <h3 align="center">
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> Skills <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
@@ -107,7 +107,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+---
 
 <h3 align="center">
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
@@ -190,9 +190,10 @@ Thanks for Visiting! You can take a look at my projects 👇😄
 </p >
 -->
 
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
  <p align="center">
-  <a href="https://github.com/walidbosso"><img src="https://readme-typing-svg.herokuapp.com/?lines=💙%20Thanks%20For%20Visitng!%20💙;Take%20A%20Look%20At%20My%20Projects%20👇%20👀;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=22%11"></a>
+  <a href="https://github.com/walidbosso"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!%20💙;Take%20A%20Look%20At%20My%20Projects%20👇;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=18"></a>
 </p>
 
 
