@@ -54,14 +54,15 @@
 
 <h3 align="center">
  <a href="https://github.com/walidbosso">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left"> 
-    </a> <a href="https://github.com/walidbosso">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right">
-   </a>
- Skills 
-
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a>
  
+ <a href="https://github.com/walidbosso">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a>
+ Skills  
 </h3>
+
 <a href="https://github.com/walidbosso">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
@@ -138,9 +139,9 @@
 
 <h3 align="center">
  <a href="https://github.com/walidbosso">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left"> 
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a> <a href="https://github.com/walidbosso">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a> Stats 
 
 </h3>
