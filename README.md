@@ -3,7 +3,17 @@
 <a href="https://github.com/sohaibMan/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=walidbosso">
 </a>
+
+![](https://komarev.com/ghpvc/?username=walidbosso)
+[![Github all releases](https://img.shields.io/github/downloads/walidbosso/MATLAB_Image_processing_app/total.svg)](https://GitHub.com/walidbosso/MATLAB_Image_processing_app/releases/)
+[![GitHub forks](https://img.shields.io/github/forks/walidbosso/MATLAB_Image_processing_app.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/walidbosso/MATLAB_Image_processing_app/network/)
+[![GitHub watchers](https://img.shields.io/github/watchers/walidbosso/MATLAB_Image_processing_app.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/walidbosso/MATLAB_Image_processing_app/watchers/)
+ <img align="left" src="https://img.shields.io/github/downloads/walidbosso/MATLAB_Image_processing_app/total.svg" width="200">   
+ 
 -->
+
+
+
 <a href="https://github.com/walidbosso">
  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
 </a>
@@ -175,6 +185,8 @@
 
   [![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=github_dark)](https://github.com/walidbosso) 
   [![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=github_dark)](https://github.com/walidbosso)
+  
+  [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=blue-green)](https://github.com/walidbosso/github-readme-streak-stats)
   </p> 
 </details>
 
