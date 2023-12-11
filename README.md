@@ -198,7 +198,7 @@
   [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=blue-green)](https://github.com/walidbosso/github-readme-streak-stats)
 
 
-<img align="center" width ="%" src="https://komarev.com/ghpvc/?username=walidbosso">
+<img align="center" width ="1%" src="https://komarev.com/ghpvc/?username=walidbosso">
 
 
   </p> 
