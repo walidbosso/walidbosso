@@ -29,12 +29,12 @@
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
-<img align="center" width ="%" src="https://komarev.com/ghpvc/?username=walidbosso">
+
 
 
 <!--Intro-->
  
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a>
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/walidbosso"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=walidbosso"></a>
 
 
 <a href="https://github.com/walidbosso">   
