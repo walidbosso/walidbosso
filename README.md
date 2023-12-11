@@ -1,9 +1,9 @@
 <!--Header-->
-<!--
-<a href="https://github.com/sohaibMan/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=walidbosso">
-</a>
 
+
+
+
+<!--
 ![](https://komarev.com/ghpvc/?username=walidbosso)
 [![Github all releases](https://img.shields.io/github/downloads/walidbosso/MATLAB_Image_processing_app/total.svg)](https://GitHub.com/walidbosso/MATLAB_Image_processing_app/releases/)
 [![GitHub forks](https://img.shields.io/github/forks/walidbosso/MATLAB_Image_processing_app.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/walidbosso/MATLAB_Image_processing_app/network/)
@@ -29,6 +29,9 @@
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
+<img align="center" width ="%" src="https://komarev.com/ghpvc/?username=walidbosso">
+
+
 <!--Intro-->
  
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a>
@@ -39,11 +42,15 @@
 </a>
 
 
+
+
 ### Congratulations you found me
 
 - 👨‍💻 I’m currently working on web development technologies like `Spring Boot`, `React`, `Angular` etc.
 - 📚 I’m currently learning **React Native, Selenium and Machine Learning technologies** 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+
+
 
 <!--Contact-->
 
@@ -191,7 +198,7 @@
   [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=blue-green)](https://github.com/walidbosso/github-readme-streak-stats)
 
 
-
+<img align="center" width ="%" src="https://komarev.com/ghpvc/?username=walidbosso">
 
 
   </p> 
