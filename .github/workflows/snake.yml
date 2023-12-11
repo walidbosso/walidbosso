@@ -8,7 +8,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Generate color for day of week
+        id: color
+        # RGB + CMYK = 7 week days
+        run: echo "color=$(echo 'red green blue cyan magenta violet black' | cut -d ' ' -f `date +%u`)" >> "$GITHUB_OUTPUT"
       - name: generate github-snake.svg
+              # uses: aelassas/snk/svg-only@main
       - uses: Platane/snk@v3
         with:
           # github user name to read the contribution graph from (**required**)
