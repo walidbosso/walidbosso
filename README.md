@@ -39,7 +39,7 @@
 
 <!--Contact-->
 
-### Contact Me:
+### Contact me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/walidbosso" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -119,6 +119,7 @@
  
 <br>
 
+
 <p align="center">
  <br>
 <a href="https://github.com/walidbosso">
@@ -133,7 +134,11 @@
   <br>
 
   <p align="center">
-
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5MzRqbGpjMDRnNmpkNW5oMHVkYW10d3QwY2tuMTZsODhmdzVtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif" width="10%" height="10%" style="position:absolute" frameBorder="0" align="left" allowFullScreen></img>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5MzRqbGpjMDRnNmpkNW5oMHVkYW10d3QwY2tuMTZsODhmdzVtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif" width="10%" height="10%" style="position:absolute" frameBorder="0" align="right" allowFullScreen></img>
+   
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam10cXgyZzc5dGhwYWh5dmlhaXFtdTN3NzNzZG02MDk3ZGd6YzY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH6jM4xcOCEyRCYKpT/giphy.gif">
+ 
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Contribution ststa" width="60%" height="50%">
    
   [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=github_dark)](https://github.com/walidbosso)
@@ -143,8 +148,8 @@
   
   [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=blue-green)](https://github.com/walidbosso/github-readme-streak-stats)
 
+ 
 
-<img align="center" width ="1%" src="https://komarev.com/ghpvc/?username=walidbosso">
 
 
   </p> 
@@ -218,6 +223,7 @@
 
 
 <!--THANKS-->
+
 
  <p align="center">
   <a href="https://github.com/walidbosso"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20At%20My%20Projects%20👇😄;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
