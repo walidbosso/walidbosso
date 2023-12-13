@@ -173,7 +173,7 @@
 <p align="center"><!-- add `p` for margin-bottom -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/ocean.gif">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake.svg">
     <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-dark.svg">
   </picture>
 </p>
