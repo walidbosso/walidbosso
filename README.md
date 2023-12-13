@@ -126,7 +126,7 @@
  
  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&theme=transparent&line_height=30&rank_icon=github&show=discussions_answered&text_color=fff6ff"
+    srcset="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -158,15 +158,15 @@
 
 | Profile Details | 
 | --- |
-| [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=transparent&text_color=ffffff)](https://github.com/walidbosso) |
+| [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=algolia)](https://github.com/walidbosso) |
 
 |   |   |
 | --- | --- |
-| [![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=transparent)](https://github.com/walidbosso) | [![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=transparent)](https://github.com/walidbosso) |
+| [![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=algolia)](https://github.com/walidbosso) | [![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=algolia)](https://github.com/walidbosso) |
 
 </div>
   
-  [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=transparent&card_width=750)](https://github.com/walidbosso/github-readme-streak-stats)
+  [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=algolia&card_width=750)](https://github.com/walidbosso/github-readme-streak-stats)
 
  
 
@@ -201,18 +201,18 @@
 
   <p align="center">
       
-[![laravel Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Laravel_pharmacy_management\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/walidbosso/Laravel_pharmacy_management)
-[![openai Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=mongdb_express_Movies_api_using_openai\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/walidbosso/mongdb_express_Movies_api_using_openai)
-[![Nodejs_playground Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Nodejs_playground\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/walidbosso/Nodejs_playground)
-[![CV_BOUSSOU_Walid Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=CV_BOUSSOU_Walid\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/walidbosso/CV_BOUSSOU_Walid)
-[![JavaScript Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=JavaScript_Projects_Clock_calc_todo_gallery_bgcolor\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/walidbosso/JavaScript_Projects_Clock_calc_todo_gallery_bgcolor)
-[![ajax Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=AJAX-XML\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/walidbosso/AJAX-XML)
-[![matlab Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=MATLAB_Image_processing_app\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/walidbosso/MATLAB_Image_processing_app)
-[![pythonGUI Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Python-GUI\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/walidbosso/Python-GUI)
-[![opencv Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Python_tracking\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/walidbosso/Python_tracking)
-[![CSystem Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=C_System_Manipulation\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/walidbosso/C_System_Manipulation)
-[![Angular Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Angular-login\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&show_owner=true)](https://github.com/walidbosso/Angular-login)
-[![AngularGraph Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Angular-graph-Table-FileUpload\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&show_owner=true)](https://github.com/walidbosso/Angular-graph-Table-FileUpload)
+[![laravel Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Laravel_pharmacy_management\&theme=algolia)](https://github.com/walidbosso/Laravel_pharmacy_management)
+[![openai Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=mongdb_express_Movies_api_using_openai\&theme=algolia)](https://github.com/walidbosso/mongdb_express_Movies_api_using_openai)
+[![Nodejs_playground Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Nodejs_playground\&theme=holi)](https://github.com/walidbosso/Nodejs_playground)
+[![CV_BOUSSOU_Walid Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=CV_BOUSSOU_Walid\&theme=holi)](https://github.com/walidbosso/CV_BOUSSOU_Walid)
+[![JavaScript Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=JavaScript_Projects_Clock_calc_todo_gallery_bgcolor\&theme=github_dark)](https://github.com/walidbosso/JavaScript_Projects_Clock_calc_todo_gallery_bgcolor)
+[![ajax Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=AJAX-XML\&theme=github_dark)](https://github.com/walidbosso/AJAX-XML)
+[![matlab Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=MATLAB_Image_processing_app\&theme=algolia)](https://github.com/walidbosso/MATLAB_Image_processing_app)
+[![pythonGUI Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Python-GUI\&theme=algolia)](https://github.com/walidbosso/Python-GUI)
+[![opencv Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Python_tracking\&theme=holi)](https://github.com/walidbosso/Python_tracking)
+[![CSystem Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=C_System_Manipulation\&theme=holi)](https://github.com/walidbosso/C_System_Manipulation)
+[![Angular Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Angular-login\&theme=github_dark)](https://github.com/walidbosso/Angular-login)
+[![AngularGraph Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Angular-graph-Table-FileUpload\&theme=github_dark)](https://github.com/walidbosso/Angular-graph-Table-FileUpload)
 
 
 
