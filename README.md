@@ -1,5 +1,6 @@
 <!--Header-->
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <a href="https://github.com/walidbosso">
  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
@@ -123,7 +124,19 @@
 <p align="center">
  <br>
 <a href="https://github.com/walidbosso">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&theme=dark&line_height=30&rank_icon=github" alt="Walid's github stats"/>
+ <picture>
+  <source
+    srcset="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&theme=transparent&line_height=30&rank_icon=github&show=discussions_answered)"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&theme=transparent&line_height=30&rank_icon=github&show=discussions_answered" alt="Walid's github stats"/>
+</picture>
+
+ 
 </a>
 
  <!--More Stats-->
@@ -139,7 +152,7 @@
    
    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam10cXgyZzc5dGhwYWh5dmlhaXFtdTN3NzNzZG02MDk3ZGd6YzY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH6jM4xcOCEyRCYKpT/giphy.gif">
  
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Contribution ststa" width="60%" height="50%">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution ststa" width="60%" height="50%">
    
   [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=github_dark)](https://github.com/walidbosso)
 
@@ -161,7 +174,7 @@
 <p align="center"><!-- add `p` for margin-bottom -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/ocean.gif">
     <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-dark.svg">
   </picture>
 </p>
