@@ -123,9 +123,10 @@
 <p align="center">
  <br>
 <a href="https://github.com/walidbosso">
+ 
  <picture>
   <source
-    srcset="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&theme=transparent&line_height=30&rank_icon=github&show=discussions_answered)"
+    srcset="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&theme=transparent&line_height=30&rank_icon=github&show=discussions_answered&text_color=fff6ff"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -152,13 +153,20 @@
    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam10cXgyZzc5dGhwYWh5dmlhaXFtdTN3NzNzZG02MDk3ZGd6YzY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH6jM4xcOCEyRCYKpT/giphy.gif">
  
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution ststa" width="60%" height="50%">
-   
-  [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=github_dark)](https://github.com/walidbosso)
 
-  [![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=github_dark)](https://github.com/walidbosso) 
-  [![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=github_dark)](https://github.com/walidbosso)
+<div align="center">
+
+| Profile Details | 
+| --- |
+| [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=transparent&text_color=ffffff)](https://github.com/walidbosso) |
+
+|   |   |
+| --- | --- |
+| [![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=transparent)](https://github.com/walidbosso) | [![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=transparent)](https://github.com/walidbosso) |
+
+</div>
   
-  [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=blue-green)](https://github.com/walidbosso/github-readme-streak-stats)
+  [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=transparent&card_width=750)](https://github.com/walidbosso/github-readme-streak-stats)
 
  
 
@@ -172,10 +180,14 @@
 
 <p align="center"><!-- add `p` for margin-bottom -->
   <picture>
-    <source srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-dark.svg"
-     media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/ocean.gif"
-     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <source
+     srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-dark.svg"
+     media="(prefers-color-scheme: dark)"
+     />
+    <source
+     srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/ocean.gif"
+     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+     />
     <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/ocean.gif" />
   </picture>
 </p>
@@ -189,9 +201,9 @@
 
   <p align="center">
       
-[![laravel Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Laravel_pharmacy_management\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&show_owner=true)](https://github.com/walidbosso/Laravel_pharmacy_management)
+[![laravel Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Laravel_pharmacy_management\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/walidbosso/Laravel_pharmacy_management)
 [![openai Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=mongdb_express_Movies_api_using_openai\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/walidbosso/mongdb_express_Movies_api_using_openai)
-[![Nodejs_playground Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Nodejs_playground\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&show_owner=true)](https://github.com/walidbosso/Nodejs_playground)
+[![Nodejs_playground Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Nodejs_playground\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/walidbosso/Nodejs_playground)
 [![CV_BOUSSOU_Walid Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=CV_BOUSSOU_Walid\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/walidbosso/CV_BOUSSOU_Walid)
 [![JavaScript Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=JavaScript_Projects_Clock_calc_todo_gallery_bgcolor\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/walidbosso/JavaScript_Projects_Clock_calc_todo_gallery_bgcolor)
 [![ajax Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=AJAX-XML\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/walidbosso/AJAX-XML)
