@@ -136,11 +136,14 @@
   <br>
 
   <p align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5MzRqbGpjMDRnNmpkNW5oMHVkYW10d3QwY2tuMTZsODhmdzVtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif" width="10%" height="10%" style="position:absolute" frameBorder="0" align="left" allowFullScreen></img>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5MzRqbGpjMDRnNmpkNW5oMHVkYW10d3QwY2tuMTZsODhmdzVtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif" width="10%" height="10%" style="position:absolute" frameBorder="0" align="right" allowFullScreen></img>
-   
+   <a href="https://github.com/walidbosso">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5MzRqbGpjMDRnNmpkNW5oMHVkYW10d3QwY2tuMTZsODhmdzVtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif" width="10%" height="10%" style="position:absolute" frameBorder="0" align="left" allowFullScreen></img></a>
+<a href="https://github.com/walidbosso">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5MzRqbGpjMDRnNmpkNW5oMHVkYW10d3QwY2tuMTZsODhmdzVtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif" width="10%" height="10%" style="position:absolute" frameBorder="0" align="right" allowFullScreen></img></a>
+
+   <a href="https://github.com/walidbosso">
    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam10cXgyZzc5dGhwYWh5dmlhaXFtdTN3NzNzZG02MDk3ZGd6YzY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH6jM4xcOCEyRCYKpT/giphy.gif">
- 
+   </a>
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution ststa" width="70%" />
 
 <div align="center">
@@ -155,7 +158,7 @@
 
 </div>
   
-  [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=algolia&card_width=750)](https://github.com/walidbosso/github-readme-streak-stats)
+  [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=algolia&card_width=750)](https://github.com/walidbosso)
 
  
 
@@ -168,9 +171,9 @@
 <!--SNAKE-->
 
 <p align="center"><!-- add `p` for margin-bottom -->
-
+<a href="https://github.com/walidbosso">
    <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-darkBlue.svg" />
-
+</a>
 </p>
 
 
