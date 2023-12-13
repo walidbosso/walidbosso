@@ -181,7 +181,7 @@
 <p align="center"><!-- add `p` for margin-bottom -->
   <picture>
     <source
-     srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-dark.svg"
+     srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-darkBlue.svg"
      media="(prefers-color-scheme: dark)"
      />
     <source
