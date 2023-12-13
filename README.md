@@ -123,20 +123,9 @@
 <p align="center">
  <br>
 <a href="https://github.com/walidbosso">
- 
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&text_color=bfd6f6"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&theme=transparent&line_height=30&rank_icon=github&show=discussions_answered" alt="Walid's github stats"/>
-</picture>
 
- 
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
+
 </a>
 
  <!--More Stats-->
@@ -152,7 +141,7 @@
    
    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam10cXgyZzc5dGhwYWh5dmlhaXFtdTN3NzNzZG02MDk3ZGd6YzY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH6jM4xcOCEyRCYKpT/giphy.gif">
  
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution ststa" width="60%" height="50%">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution ststa" width="70%" />
 
 <div align="center">
 
@@ -179,17 +168,9 @@
 <!--SNAKE-->
 
 <p align="center"><!-- add `p` for margin-bottom -->
-  <picture>
-    <source
-     srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-darkBlue.svg"
-     media="(prefers-color-scheme: dark)"
-     />
-    <source
-     srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/ocean.gif"
-     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-     />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/ocean.gif" />
-  </picture>
+
+   <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-darkBlue.svg" />
+
 </p>
 
 
