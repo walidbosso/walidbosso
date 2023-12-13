@@ -130,7 +130,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&text_color=bfd6f6"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&theme=transparent&line_height=30&rank_icon=github&show=discussions_answered" alt="Walid's github stats"/>
