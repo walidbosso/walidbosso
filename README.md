@@ -172,9 +172,11 @@
 
 <p align="center"><!-- add `p` for margin-bottom -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/ocean.gif">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/ocean.gif">
+    <source srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-dark.svg"
+     media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/ocean.gif"
+     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/ocean.gif" />
   </picture>
 </p>
 
