@@ -149,17 +149,15 @@
 
 <div align="center">
  <a href="https://github.com/walidbosso"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=algolia" width="100%" /> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=algolia" width="50%"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=algolia" width="50%" /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=algolia" width="100%" /> </br></br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=algolia" width="50%"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=algolia" width="50%" /> </br></br>
  </a>
- 
- [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=algolia&card_width=1000)](https://github.com/walidbosso)
-
 <a href="https://github.com/walidbosso"> 
- <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution ststa" width="%" />
+ <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution ststa" width="%" /></br></br>
   </a> 
-
-[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=walidbosso&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/walidbosso) 
+  
+ [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=algolia&card_width=1000)](https://github.com/walidbosso) </br></br>
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=walidbosso&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/walidbosso) </br>
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=walidbosso&column=10&margin-w=15&margin-h=15&no-frame=true&theme=algolia)](https://github.com/walidbosso) 
 
 </div>
