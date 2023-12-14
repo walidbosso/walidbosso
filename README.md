@@ -1,4 +1,6 @@
-<!--Header-->
+<!--Header
+ <img align="left" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp" width="80">  
+-->
 
 
 <a href="https://github.com/walidbosso">
@@ -140,11 +142,18 @@
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5MzRqbGpjMDRnNmpkNW5oMHVkYW10d3QwY2tuMTZsODhmdzVtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif" width="10%" height="10%" style="position:absolute" frameBorder="0" align="left" allowFullScreen></img></a>
 <a href="https://github.com/walidbosso">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5MzRqbGpjMDRnNmpkNW5oMHVkYW10d3QwY2tuMTZsODhmdzVtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif" width="10%" height="10%" style="position:absolute" frameBorder="0" align="right" allowFullScreen></img></a>
-
    <a href="https://github.com/walidbosso">
-   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam10cXgyZzc5dGhwYWh5dmlhaXFtdTN3NzNzZG02MDk3ZGd6YzY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH6jM4xcOCEyRCYKpT/giphy.gif">
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam10cXgyZzc5dGhwYWh5dmlhaXFtdTN3NzNzZG02MDk3ZGd6YzY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH6jM4xcOCEyRCYKpT/giphy.gif"/>
    </a>
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution ststa" width="70%" />
+   
+<a href="https://github.com/walidbosso">
+ 
+ 
+ <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution ststa" width="70%" />
+  </a>
+   
+
+  
 
 <div align="center">
 
@@ -159,8 +168,12 @@
 </div>
   
   [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=algolia&card_width=750)](https://github.com/walidbosso)
-
  
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=walidbosso&column=10&margin-w=15&margin-h=15&no-frame=true&theme=algolia)](https://github.com/walidbosso) 
+
+ [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=walidbosso&theme=react-dark&hide_border=true&area=true)](https://github.com/walidbosso) 
+
+
 
 
 
@@ -198,7 +211,12 @@
 [![Angular Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Angular-login\&theme=github_dark)](https://github.com/walidbosso/Angular-login)
 [![AngularGraph Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Angular-graph-Table-FileUpload\&theme=github_dark)](https://github.com/walidbosso/Angular-graph-Table-FileUpload)
 
+ <div align="center">
 
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+<br/>
 
  </p>
 </details>
