@@ -146,11 +146,7 @@
    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam10cXgyZzc5dGhwYWh5dmlhaXFtdTN3NzNzZG02MDk3ZGd6YzY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH6jM4xcOCEyRCYKpT/giphy.gif"/>
    </a>
    
-<a href="https://github.com/walidbosso">
- 
- 
- <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution ststa" width="70%" />
-  </a>
+
    
 
   
@@ -160,6 +156,10 @@
 | Profile Details | 
 | --- |
 | [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=algolia)](https://github.com/walidbosso) |
+
+<a href="https://github.com/walidbosso"> 
+ <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution ststa" width="%" />
+  </a>
 
 |   |   |
 | --- | --- |
