@@ -230,8 +230,8 @@
 <a href="https://github.com/walidbosso"> 
  <img align="right" src="./images/good-times.svg" width="10%">   
 </a>
- <h2 align="center" >
-   【Ｈｏｂｂｉｅｓ】
+ <h2 align="center" width="20" >
+   【H o b b i e s】
 </h2>
 
 <!--<p align="center">
