@@ -1,8 +1,10 @@
 <!--Header
 ![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=walidbosso&limit=5)
 
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 -->
+
+
 
 
 <a href="https://github.com/walidbosso"> 
@@ -252,6 +254,21 @@ Currently Coding and Listening
   
   [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)
 
+<details align="center">
+  <summary>💚 More Songs</summary>
+  <br>
+
+  <p align="center">
+  <p align="center">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=21omxceo7j24upe246denzrgy">
+  <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21omxceo7j24upe246denzrgy" alt="Data Card for Spotify">
+</a>
+</p>
+<br/>
+
+ </p>
+</details>
+
 <br/>
 
 <a href="https://github.com/walidbosso"> 
@@ -264,8 +281,12 @@ Currently Coding and Listening
 <a href="https://github.com/walidbosso">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
- 
 
+ <!--MOON-->
+<a href="https://moon-svg.minung.dev">
+  <img width="30" align ="left"  src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
+<a href="https://moon-svg.minung.dev">
+  <img width="30" align ="right"  src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
 
 <!--THANKS-->
 
