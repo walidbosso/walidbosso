@@ -259,7 +259,7 @@ Currently Coding and Listening
 </a>
 
 <!--QUOTE-->
-
+<br/><br/>
   <div align="center">
  
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/walidbosso)
@@ -267,7 +267,7 @@ Currently Coding and Listening
 
 </div>
 
-<br/>
+
 
  </p>
 </details>
