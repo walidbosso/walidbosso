@@ -190,7 +190,7 @@
 
  <div align="center">
   
-[![](https://github-contributor-stats.vercel.app/api?username=walidbosso&limit=6&theme=algolia&combine_all_yearly_contributions=true))](https://github.com/walidbosso?tab=repositories&q=&type=&language=&sort=stargazers)
+[![](https://github-contributor-stats.vercel.app/api?username=walidbosso&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide=walidbosso))](https://github.com/walidbosso?tab=repositories&q=&type=&language=&sort=stargazers)
 
 </div>
 
