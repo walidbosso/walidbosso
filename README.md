@@ -1,7 +1,8 @@
 <!--Header
+![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=walidbosso&limit=5)
+
 
 -->
-
 
 <a href="https://github.com/walidbosso">
  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
