@@ -230,7 +230,7 @@
 <a href="https://github.com/walidbosso"> 
  <img align="right" src="./images/good-times.svg" width="10%">   
 </a>
- <h2 align="center">
+ <h2 align="center" width="80%">
    【 ﻿𝗛 𝗼 𝗯 𝗯 𝗶 𝗲 𝘀 】
 </h2>
 
@@ -246,7 +246,7 @@
 
 <br>
 <h4 align="center">
-Currently Coding and Listening to
+Currently Coding and Listening
 </h4>
  <div align="center">
   
