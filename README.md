@@ -1,8 +1,4 @@
-<!--Header
-![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=walidbosso&limit=5)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
--->
+<!--Header-->
 
 
 <a href="https://github.com/walidbosso"> 
@@ -96,8 +92,6 @@
 |                                                   |<p align="center"> [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)](https://github.com/walidbosso) |<p align="center"> [![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)](https://github.com/walidbosso) |                                                   |                                                   |                                                   |
 
 
-
-
 </div>
 
 
@@ -135,14 +129,14 @@
 
 </a>
 
+
  <!--More Stats-->
+
  
 </p >
 <details align="center">
   <summary>📈 More Stats</summary>
   <br>
-
- 
  
 
 <div align="center">
@@ -163,12 +157,6 @@
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=walidbosso&column=10&margin-w=15&margin-h=15&no-frame=true&theme=algolia)](https://github.com/walidbosso) 
 
 </div>
-  
-
- 
-
-
-
 
   </p> 
 </details>
@@ -176,7 +164,8 @@
 
 <!--SNAKE-->
 
-<p align="center"><!-- add `p` for margin-bottom -->
+
+<p align="center">
 <a href="https://github.com/walidbosso">
    <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-darkBlue.svg" />
 </a>
@@ -184,6 +173,7 @@
 
 
 <!--More REPOSITORIES-->
+
 
 <details align="center">
   <summary>📁 More Repositories</summary>
@@ -217,7 +207,9 @@
  </p>
 </details>
 
+
 <!--SPOTIFY-->
+
 
 <a href="https://github.com/walidbosso">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
@@ -236,11 +228,6 @@
  <h2 align="center" width="20" >
    【H o b b i e s】
 </h2>
-
-<!--<p align="center">
-<a href="https://github.com/walidbosso">
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
-</a></p>-->
 
 
 <a href="https://github.com/walidbosso"> 
@@ -297,10 +284,12 @@ Currently Coding and Listening
 </a>
 
  <!--MOON-->
+ 
 <a href="https://moon-svg.minung.dev">
   <img width="30" align ="left"  src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
 <a href="https://moon-svg.minung.dev">
   <img width="30" align ="right"  src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
+
 
 <!--THANKS-->
 
@@ -314,7 +303,14 @@ Currently Coding and Listening
 
 
 
+<!--<p align="center">
+<a href="https://github.com/walidbosso">
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
+</a></p>
+![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=walidbosso&limit=5)
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+-->
 
 <!--
 ![](https://komarev.com/ghpvc/?username=walidbosso)
