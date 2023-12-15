@@ -137,20 +137,19 @@
   <summary>📈 More Stats</summary>
   <br>
 
+<!--
   <p align="center">
    <a href="https://github.com/walidbosso">
-     <img align="left" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp" width="20%" /> 
+     <img align="left" src=" width="20%" /> 
      </a>
 <a href="https://github.com/walidbosso">
-   <img align="right" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp" width="20%" /> 
- </a>
-  
-  
-   <a href="https://github.com/walidbosso">
+   <img align="right" src="" width="20%" />   <a href="https://github.com/walidbosso">
    <img src="https://i.pinimg.com/originals/bb/93/8b/bb938bd50fcfedccd720641f5a824bba.gif" width="50%"/>
-   </a>
-
----   
+   </a> <br> <br>
+ </a>
+  -->
+  
+ 
 
 <div align="center">
  <a href="https://github.com/walidbosso"> 
