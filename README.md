@@ -1,5 +1,5 @@
 <!--Header
- <img align="left" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp" width="80">  
+
 -->
 
 
@@ -139,13 +139,18 @@
 
   <p align="center">
    <a href="https://github.com/walidbosso">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5MzRqbGpjMDRnNmpkNW5oMHVkYW10d3QwY2tuMTZsODhmdzVtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif" width="10%" height="10%" style="position:absolute" frameBorder="0" align="left" allowFullScreen></img></a>
+     <img align="left" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp" width="20%" /> 
+     </a>
 <a href="https://github.com/walidbosso">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5MzRqbGpjMDRnNmpkNW5oMHVkYW10d3QwY2tuMTZsODhmdzVtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif" width="10%" height="10%" style="position:absolute" frameBorder="0" align="right" allowFullScreen></img></a>
+   <img align="right" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp" width="20%" /> 
+ </a>
+  
+  
    <a href="https://github.com/walidbosso">
-   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam10cXgyZzc5dGhwYWh5dmlhaXFtdTN3NzNzZG02MDk3ZGd6YzY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH6jM4xcOCEyRCYKpT/giphy.gif"/>
+   <img src="https://i.pinimg.com/originals/bb/93/8b/bb938bd50fcfedccd720641f5a824bba.gif" width="50%"/>
    </a>
-   
+
+---   
 
 <div align="center">
  <a href="https://github.com/walidbosso"> 
