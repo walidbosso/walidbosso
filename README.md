@@ -233,8 +233,11 @@
  <h4 align="center">
   Currently Coding and Listening to  
 </h4>
+<p align="center">
+<a href="https://github.com/walidbosso">
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
+</a></p>
 
----
 
 <img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" >
  <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > 
@@ -244,6 +247,7 @@
   
   [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)
 
+<br/>
 
 <a href="https://github.com/walidbosso"> 
  <img align="center" src="./images/skills.png" width="100%">   
