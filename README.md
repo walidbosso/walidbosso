@@ -273,7 +273,7 @@ Currently Coding and Listening
 
   <div align="center">
  
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight))](https://github.com/walidbosso)
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/walidbosso)
 
 
 </div>
