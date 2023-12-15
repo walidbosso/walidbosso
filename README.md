@@ -4,6 +4,7 @@
 
 -->
 
+
 <a href="https://github.com/walidbosso">
  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
 </a>
@@ -93,6 +94,9 @@
 | <p align="center">[![C](http://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=ffffff)](https://github.com/walidbosso) | <p align="center">[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://github.com/walidbosso) | <p align="center">[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)](https://github.com/walidbosso) |                                                  |<p align="center"> [![Microsoft Office](http://img.shields.io/badge/-Microsoft%20Office-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](https://github.com/walidbosso) |<p align="center"> [![Ubuntu](http://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://github.com/walidbosso)  |
 | <p align="center">[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/walidbosso) |<p align="center"> [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://github.com/walidbosso) |<p align="center"> [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?flat-square&logo=Hibernate&logoColor=white)](https://github.com/walidbosso) |                                                   | <p align="center">[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://github.com/walidbosso)  |                                                   |
 |                                                   |<p align="center"> [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)](https://github.com/walidbosso) |<p align="center"> [![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)](https://github.com/walidbosso) |                                                   |                                                   |                                                   |
+
+
+
 
 </div>
 
@@ -219,16 +223,31 @@
 <a href="https://github.com/walidbosso">
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" >
  <img align="right"  src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" > 
+ </a>
+  <a href="https://github.com/walidbosso"> 
+ <img align="left" src="./images/good-times.svg" width="10%">   
+</a>
+<a href="https://github.com/walidbosso"> 
+ <img align="right" src="./images/good-times.svg" width="10%">   
+</a>
  <h4 align="center">
   Currently Coding and Listening to  
 </h4>
+
+---
+
 <img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" >
  <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > 
-</a>
+
 
  <div align="center">
   
   [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)
+
+
+<a href="https://github.com/walidbosso"> 
+ <img align="center" src="./images/skills.png" width="100%">   
+</a>
 
 </div>
 
