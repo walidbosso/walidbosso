@@ -5,8 +5,6 @@
 -->
 
 
-
-
 <a href="https://github.com/walidbosso"> 
  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
 </a>
@@ -206,8 +204,11 @@
 [![Angular Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Angular-login\&theme=github_dark)](https://github.com/walidbosso/Angular-login)
 [![AngularGraph Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Angular-graph-Table-FileUpload\&theme=github_dark)](https://github.com/walidbosso/Angular-graph-Table-FileUpload)
 
- <div align="center">
 
+
+ <div align="center">
+  
+[![](https://github-contributor-stats.vercel.app/api?username=walidbosso&limit=5&theme=algolia&combine_all_yearly_contributions=true))](https://github.com/walidbosso?tab=repositories&q=&type=&language=&sort=stargazers)
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
@@ -242,9 +243,12 @@
 </a></p>-->
 
 
+<a href="https://github.com/walidbosso"> 
+<img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" ></a>
+<a href="https://github.com/walidbosso"> 
+ <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
 
-<img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" >
- <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > 
+<!--spotify CARD-->
 
 <br>
 <h4 align="center">
@@ -254,16 +258,26 @@ Currently Coding and Listening
   
   [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)
 
+<!--MORE SONGS-->
+
 <details align="center">
   <summary>💚 More Songs</summary>
   <br>
 
-  <p align="center">
-  <p align="center">
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=21omxceo7j24upe246denzrgy">
+
+<a href="https://github.com/walidbosso"> 
   <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21omxceo7j24upe246denzrgy" alt="Data Card for Spotify">
 </a>
-</p>
+
+<!--QUOTE-->
+
+  <div align="center">
+ 
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight))](https://github.com/walidbosso)
+
+
+</div>
+
 <br/>
 
  </p>
