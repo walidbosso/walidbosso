@@ -201,10 +201,10 @@
 [![Angular Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Angular-login\&theme=algolia)](https://github.com/walidbosso/Angular-login)
 [![AngularGraph Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Angular-graph-Table-FileUpload\&theme=algolia)](https://github.com/walidbosso/Angular-graph-Table-FileUpload)
 
-
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 <br/>
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
 
  </p>
 </details>
