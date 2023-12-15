@@ -187,22 +187,24 @@
 [![CV_BOUSSOU_Walid Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=CV_BOUSSOU_Walid\&theme=holi)](https://github.com/walidbosso/CV_BOUSSOU_Walid)
 [![JavaScript Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=JavaScript_Projects_Clock_calc_todo_gallery_bgcolor\&theme=github_dark)](https://github.com/walidbosso/JavaScript_Projects_Clock_calc_todo_gallery_bgcolor)
 [![ajax Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=AJAX-XML\&theme=github_dark)](https://github.com/walidbosso/AJAX-XML)
-[![matlab Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=MATLAB_Image_processing_app\&theme=algolia)](https://github.com/walidbosso/MATLAB_Image_processing_app)
-[![pythonGUI Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Python-GUI\&theme=algolia)](https://github.com/walidbosso/Python-GUI)
-[![opencv Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Python_tracking\&theme=holi)](https://github.com/walidbosso/Python_tracking)
-[![CSystem Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=C_System_Manipulation\&theme=holi)](https://github.com/walidbosso/C_System_Manipulation)
-[![Angular Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Angular-login\&theme=github_dark)](https://github.com/walidbosso/Angular-login)
-[![AngularGraph Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Angular-graph-Table-FileUpload\&theme=github_dark)](https://github.com/walidbosso/Angular-graph-Table-FileUpload)
-
-
 
  <div align="center">
   
 [![](https://github-contributor-stats.vercel.app/api?username=walidbosso&limit=5&theme=algolia&combine_all_yearly_contributions=true))](https://github.com/walidbosso?tab=repositories&q=&type=&language=&sort=stargazers)
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
+
+[![matlab Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=MATLAB_Image_processing_app\&theme=github_dark)](https://github.com/walidbosso/MATLAB_Image_processing_app)
+[![pythonGUI Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Python-GUI\&theme=github_dark)](https://github.com/walidbosso/Python-GUI)
+[![opencv Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Python_tracking\&theme=holi)](https://github.com/walidbosso/Python_tracking)
+[![CSystem Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=C_System_Manipulation\&theme=holi)](https://github.com/walidbosso/C_System_Manipulation)
+[![Angular Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Angular-login\&theme=algolia)](https://github.com/walidbosso/Angular-login)
+[![AngularGraph Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Angular-graph-Table-FileUpload\&theme=algolia)](https://github.com/walidbosso/Angular-graph-Table-FileUpload)
+
+
 <br/>
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
  </p>
 </details>
