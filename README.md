@@ -231,7 +231,7 @@
  <img align="right" src="./images/good-times.svg" width="10%">   
 </a>
  <h2 align="center" >
-   【﻿Ｈｏｂｂｉｅｓ】
+   【﻿𝗛𝗼 𝗯 𝗯 𝗶 𝗲 𝘀】
 </h2>
 
 <!--<p align="center">
