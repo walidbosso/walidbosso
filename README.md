@@ -149,9 +149,9 @@
  <a href="https://github.com/walidbosso"> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=algolia" width="100%" /> </br></br>
   
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=algolia" width="32%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=algolia" width="32%" align="right"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=walidbosso&theme=algolia" width="32%" align="center"/>  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=algolia" width="31%" align="right"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=walidbosso&theme=algolia" width="31%" align="center"/>  
 </br></br>
  </a>
 <a href="https://github.com/walidbosso"> 
