@@ -1,5 +1,8 @@
  <!--Header-->
 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br/><br/>
 
 <a href="https://github.com/walidbosso"> 
@@ -159,8 +162,7 @@
 
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
   </p> 
 </details>
