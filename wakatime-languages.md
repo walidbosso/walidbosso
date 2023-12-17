@@ -10,4 +10,5 @@ Java   13 mins         ███████████████████
 
 <!--END_SECTION:waka-->
 
+  <img align="center" src="./assets/bar_graph.png"  />
 
