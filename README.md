@@ -161,7 +161,7 @@
 </div>
 
 </p >
-
+</details>
 
 <!--SNAKE-->
 
