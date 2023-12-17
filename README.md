@@ -279,6 +279,9 @@ Currently Coding and Listening
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/walidbosso)
 
 
+  <img align="center" width="1px" src="https://visitcount.itsvg.in/api?id=walidbosso&label=Profile%20Views&color=1&icon=3&pretty=true" />
+
+
 </div>
 
 
