@@ -1,4 +1,6 @@
  <!--Header-->
+
+ 
 <br/>
 
 <a href="https://github.com/walidbosso"> 
@@ -158,7 +160,15 @@
 
 </div>
 
-
+</p >
+<details align="center">
+  <summary>⏲️ Waka Time </summary>
+  <br>
+ 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+ 
+</details>
 
   </p> 
 </details>
