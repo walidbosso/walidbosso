@@ -161,6 +161,7 @@
 </div>
 
 </p >
+<br/>
 </details>
 
 <!--SNAKE-->
