@@ -9,3 +9,8 @@ Java   13 mins         ███████████████████
 ```
 
 <!--END_SECTION:waka-->
+
+<img align="center"
+  src="https://github.com/walidbosso/walidbosso/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
