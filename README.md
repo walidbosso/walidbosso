@@ -260,8 +260,18 @@ Currently Coding and Listening
   <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21omxceo7j24upe246denzrgy" alt="Data Card for Spotify">
 </a>
 
+
+
+
+</div>
+
+
+
+ </p>
+</details>
+
 <!--QUOTE-->
-<br/><br/>
+<br/>
   <div align="center">
 
 
@@ -273,14 +283,6 @@ Currently Coding and Listening
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/walidbosso)
 
 
-</div>
-
-
-
- </p>
-</details>
-
-<br/>
 
 <a href="https://github.com/walidbosso"> 
  <img align="center" src="./images/skills.png" width="100%">   
