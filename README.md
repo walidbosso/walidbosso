@@ -286,7 +286,13 @@ Currently Coding and Listening
 
 </div>
 
+<p align="center">
+✔️ You have stayed on my page for:
+</p>
 
+<p align="center">
+<a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="https://raw.githubusercontent.com/tomchen/animated-svg-clock/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
+</p>
 
  </p>
 </details>
