@@ -286,17 +286,7 @@ Currently Coding and Listening
 <a href="https://github.com/walidbosso"> 
   <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21omxceo7j24upe246denzrgy" alt="Data Card for Spotify">
 </a>
-   <div align="left">
-<a href="https://github.com/walidbosso"> 
- <img align="left" src="./images/citytheme.gif" width="180px" >   
-</a>
-</div>
-
-  <div align="right">
-<a href="https://github.com/walidbosso"> 
- <img align="right" src="./images/citytheme.gif" width="180" >   
-</a>
-</div>
+  
 <!--QUOTE-->
 <br/><br/>
   <div align="center">
@@ -312,7 +302,8 @@ Currently Coding and Listening
 
 
 <!-- views-->
-  <img align="center" width="1px" src="https://visitcount.itsvg.in/api?id=walidbosso&label=Profile%20Views&color=1&icon=3&pretty=true" />
+  <img align="left" width="1px" src="https://visitcount.itsvg.in/api?id=walidbosso&label=Profile%20Views&color=1&icon=3&pretty=true" />
+
 
 
 </div>
@@ -324,12 +315,19 @@ Currently Coding and Listening
 <br/><br/>
 </p>
 
-
-
 <p align="center">
 <a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="./images/clock.svg" alt="Clock" width="200px" height="200px"></a><a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="./images/xlzpyflf.png" alt="Clock" width="200px" height="200px"></a>
  
 </p>
+
+<br/>
+
+ <div align="center">
+<a href="https://github.com/walidbosso"> 
+ <img align="center" src="./images/citytheme.gif" width="60%" >   
+</a>
+</div>
+
 
 
 
