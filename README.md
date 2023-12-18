@@ -286,7 +286,17 @@ Currently Coding and Listening
 <a href="https://github.com/walidbosso"> 
   <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21omxceo7j24upe246denzrgy" alt="Data Card for Spotify">
 </a>
+   <div align="left">
+<a href="https://github.com/walidbosso"> 
+ <img align="left" src="./images/citytheme.gif" width="180px" >   
+</a>
+</div>
 
+  <div align="right">
+<a href="https://github.com/walidbosso"> 
+ <img align="right" src="./images/citytheme.gif" width="180" >   
+</a>
+</div>
 <!--QUOTE-->
 <br/><br/>
   <div align="center">
@@ -299,25 +309,15 @@ Currently Coding and Listening
  
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/walidbosso)
 
+
+
 <!-- views-->
-
-
   <img align="center" width="1px" src="https://visitcount.itsvg.in/api?id=walidbosso&label=Profile%20Views&color=1&icon=3&pretty=true" />
 
 
 </div>
 
-   <div align="left">
-<a href="https://github.com/walidbosso"> 
- <img align="left" src="./images/citytheme.gif" width="180px" >   
-</a>
-</div>
 
-  <div align="right">
-<a href="https://github.com/walidbosso"> 
- <img align="right" src="./images/citytheme.gif" width="180" >   
-</a>
-</div>
 
 <p align="center">
 ⏳  𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛
