@@ -1,7 +1,11 @@
+
+
+
 <a href="https://github.com/walidbosso"> 
  <img align="center" src="./images/header.png" width="100%">    
 </a>
 <p align="center">
+
  
  <!--Header-->
 
@@ -48,6 +52,8 @@
 <!--Contact-->
 
 ### Contact me:
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/walidbosso" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -131,6 +137,8 @@
 
 <p align="center">
  <br>
+
+
 <a href="https://github.com/walidbosso">
 
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
@@ -252,13 +260,26 @@
 Currently Coding and Listening
 </h4>
  <div align="center">
+
+
+  <div align="left">
+<a href="https://github.com/walidbosso"> 
+ <img align="left" src="./images/blue.gif" width="180px" >   
+</a>
+</div>
+
+  <div align="right">
+<a href="https://github.com/walidbosso"> 
+ <img align="right" src="./images/blue.gif" width="180" >   
+</a>
+</div>
   
   [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)
 
 <!--MORE SONGS-->
 
 <details align="center">
-  <summary>💚 More Songs</summary>
+  <summary>💚 More Songs & More things</summary>
   <br>
 
 
@@ -286,13 +307,31 @@ Currently Coding and Listening
 
 </div>
 
-<p align="center">
-✔️ You have stayed on my page for:
-</p>
+   <div align="left">
+<a href="https://github.com/walidbosso"> 
+ <img align="left" src="./images/citytheme.gif" width="180px" >   
+</a>
+</div>
+
+  <div align="right">
+<a href="https://github.com/walidbosso"> 
+ <img align="right" src="./images/citytheme.gif" width="180" >   
+</a>
+</div>
 
 <p align="center">
-<a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="https://raw.githubusercontent.com/tomchen/animated-svg-clock/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
+⏳  𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛
+<br/><br/>
 </p>
+
+
+
+<p align="center">
+<a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="./images/clock.svg" alt="Clock" width="200px" height="200px"></a><a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="./images/xlzpyflf.png" alt="Clock" width="200px" height="200px"></a>
+ 
+</p>
+
+
 
  </p>
 </details>
