@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 December 2023 - To: 17 December 2023
+From: 15 December 2023 - To: 18 December 2023
 
-Total Time: 1 hr 7 mins
+Total Time: 1 hr 12 mins
 
-Java             43 mins         ████████████████░░░░░░░░░   63.81 %
-CLASS            13 mins         █████░░░░░░░░░░░░░░░░░░░░   20.17 %
-Markdown         10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
-XML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Java             48 mins         ████████████████▓░░░░░░░░   66.23 %
+CLASS            13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
+Markdown         10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
+XML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
