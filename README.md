@@ -264,13 +264,13 @@ Currently Coding and Listening
 
   <div align="left">
 <a href="https://github.com/walidbosso"> 
- <img align="left" src="./images/blue.gif" width="140px" >   
+ <img align="left" src="./images/blue.gif" width="100" >   
 </a>
 </div>
 
   <div align="right">
 <a href="https://github.com/walidbosso"> 
- <img align="right" src="./images/blue.gif" width="140px" >   
+ <img align="right" src="./images/blue.gif" width="100" >   
 </a>
 </div>
   
