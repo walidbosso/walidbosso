@@ -254,7 +254,11 @@
  <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
 
 <!--spotify CARD-->
-
+  <div align="center">
+<a href="https://github.com/walidbosso"> 
+ <img center="left" src="./images/blue.gif" width="80" >   
+</a>
+</div>
 <br>
 <h4 align="center">
 Currently Coding and Listening
@@ -262,17 +266,7 @@ Currently Coding and Listening
  <div align="center">
 
 
-  <div align="left">
-<a href="https://github.com/walidbosso"> 
- <img align="left" src="./images/blue.gif" width="140px" >   
-</a>
-</div>
 
-  <div align="right">
-<a href="https://github.com/walidbosso"> 
- <img align="right" src="./images/blue.gif" width="140px" >   
-</a>
-</div>
   
   [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)
 
