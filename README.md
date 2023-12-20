@@ -205,8 +205,12 @@
 [![ajax Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=AJAX-XML\&theme=github_dark)](https://github.com/walidbosso/AJAX-XML)
 
  <div align="center">
-  
+
+[![walidbosso Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=walidbosso\&theme=algolia)](https://github.com/walidbosso/walidbosso)  
+
 [![](https://github-contributor-stats.vercel.app/api?username=walidbosso&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide=walidbosso)](https://github.com/walidbosso?tab=repositories&q=&type=&language=&sort=stargazers)
+
+[![MERN_Stack_BlogProject Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=MERN_Stack_BlogProject\&theme=algolia)](https://github.com/walidbosso/MERN_Stack_BlogProject)  
 
 </div>
 
@@ -262,17 +266,6 @@ Currently Coding and Listening
  <div align="center">
 
 
-  <div align="left">
-<a href="https://github.com/walidbosso"> 
- <img align="left" src="./images/blue.gif" width="100" >   
-</a>
-</div>
-
-  <div align="right">
-<a href="https://github.com/walidbosso"> 
- <img align="right" src="./images/blue.gif" width="100" >   
-</a>
-</div>
   
   [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)
 
@@ -302,13 +295,24 @@ Currently Coding and Listening
 
 
 <!-- views-->
-  <img align="left" width="1px" src="https://visitcount.itsvg.in/api?id=walidbosso&label=Profile%20Views&color=1&icon=3&pretty=true" />
+  <img align="left" width="0px" src="https://visitcount.itsvg.in/api?id=walidbosso&label=Profile%20Views&color=1&icon=3&pretty=true" />
 
 
 
 </div>
+<br/>
 
+  <div align="left">
+<a href="https://github.com/walidbosso"> 
+ <img align="left" src="./images/blue.gif" width="80" >   
+</a>
+</div>
 
+  <div align="right">
+<a href="https://github.com/walidbosso"> 
+ <img align="right" src="./images/blue.gif" width="80" >   
+</a>
+</div>
 
 <p align="center">
 ⏳  𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛
