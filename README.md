@@ -206,11 +206,13 @@
 
  <div align="center">
 
-[![walidbosso Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=walidbosso\&theme=algolia)](https://github.com/walidbosso/walidbosso)  
+[![walidbosso Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=walidbosso\&theme=algolia)](https://github.com/walidbosso/walidbosso)[![Selenium-Web-Automation-Trello Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Selenium-Web-Automation-Trello\&theme=algolia)](https://github.com/walidbosso/Selenium-Web-Automation-Trello)  
+
 
 [![](https://github-contributor-stats.vercel.app/api?username=walidbosso&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide=walidbosso)](https://github.com/walidbosso?tab=repositories&q=&type=&language=&sort=stargazers)
 
-[![MERN_Stack_BlogProject Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=MERN_Stack_BlogProject\&theme=algolia)](https://github.com/walidbosso/MERN_Stack_BlogProject)  
+[![MERN_Stack_BlogProject Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=MERN_Stack_BlogProject\&theme=algolia)](https://github.com/walidbosso/MERN_Stack_BlogProject)
+
 
 </div>
 
