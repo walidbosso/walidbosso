@@ -1,6 +1,7 @@
 
 
 
+
 <a href="https://github.com/walidbosso"> 
  <img align="center" src="./images/header.png" width="100%">    
 </a>
@@ -155,10 +156,11 @@
   <br>
  
 
+<p align="center">
 <div align="center">
  <a href="https://github.com/walidbosso"> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=algolia" width="100%" /> </br></br>
-  
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=algolia" width="31%" align="left"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=algolia" width="31%" align="right"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=walidbosso&theme=algolia" width="31%" align="center"/>  
@@ -202,18 +204,12 @@
 [![CV_BOUSSOU_Walid Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=CV_BOUSSOU_Walid\&theme=holi)](https://github.com/walidbosso/CV_BOUSSOU_Walid)
 [![JavaScript Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=JavaScript_Projects_Clock_calc_todo_gallery_bgcolor\&theme=github_dark)](https://github.com/walidbosso/JavaScript_Projects_Clock_calc_todo_gallery_bgcolor)
 [![ajax Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=AJAX-XML\&theme=github_dark)](https://github.com/walidbosso/AJAX-XML)
-
- <div align="center">
-
 [![walidbosso Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=walidbosso\&theme=algolia)](https://github.com/walidbosso/walidbosso)[![Selenium-Web-Automation-Trello Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Selenium-Web-Automation-Trello\&theme=algolia)](https://github.com/walidbosso/Selenium-Web-Automation-Trello)  
 
 
 [![](https://github-contributor-stats.vercel.app/api?username=walidbosso&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide=walidbosso)](https://github.com/walidbosso?tab=repositories&q=&type=&language=&sort=stargazers)
 
 [![MERN_Stack_BlogProject Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=MERN_Stack_BlogProject\&theme=algolia)](https://github.com/walidbosso/MERN_Stack_BlogProject)
-
-
-</div>
 
 [![matlab Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=MATLAB_Image_processing_app\&theme=github_dark)](https://github.com/walidbosso/MATLAB_Image_processing_app)
 [![pythonGUI Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Python-GUI\&theme=github_dark)](https://github.com/walidbosso/Python-GUI)
@@ -300,20 +296,12 @@ Currently Coding and Listening
 
 
 
+
+
 </div>
 <br/>
 
-  <div align="left">
-<a href="https://github.com/walidbosso"> 
- <img align="left" src="./images/blue.gif" width="80" >   
-</a>
-</div>
 
-  <div align="right">
-<a href="https://github.com/walidbosso"> 
- <img align="right" src="./images/blue.gif" width="80" >   
-</a>
-</div>
 
 <p align="center">
 ⏳  𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛
@@ -326,11 +314,16 @@ Currently Coding and Listening
 </p>
 
 <br/>
-
+<a href="https://youtube.com/shorts/HWNQxME4r5E?feature=share"> 
+ <img align="center" src="https://img.shields.io/badge/%F0%9F%94%B7%202023%20%F0%9F%94%B7-Github%20unwrapped-01102d.svg" width="">    
+</a><br/><br/>
  <div align="center">
+  
 <a href="https://github.com/walidbosso"> 
  <img align="center" src="./images/citytheme.gif" width="60%" >   
 </a>
+
+
 </div>
 
 
