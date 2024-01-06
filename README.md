@@ -60,6 +60,7 @@
   <a href="https://api.whatsapp.com/send?phone=+212658930956&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" /></a>
   <a href="https://t.me/walidbosso" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a><br>
   <a href="http://walidbosso.byethost12.com/wp-content/uploads/2023/09/CV_BOUSSOU_Walid_2023.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
+ 
 </p>
 
 
@@ -365,6 +366,10 @@ Currently Coding and Listening
 
 
 <!--THANKS-->
+ <p align="center">
+<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+</p>
+
 
 
  <p align="center">
