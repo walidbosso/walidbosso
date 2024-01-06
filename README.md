@@ -27,9 +27,11 @@
 
 
 
-<!--Intro-->
+<!--Introhttps://komarev.com/ghpvc/?username=walidbosso&style=for-the-badge&color=50adff-->
+
  
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/walidbosso"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=walidbosso&style=for-the-badge&color=50adff"></a><a href="https://github.com/walidbosso"><img align="right" width ="%" src="https://img.shields.io/github/followers/walidbosso?logo=github&style=for-the-badge"></a>
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/walidbosso"><img align="right" width ="%" src="https://visitcount.itsvg.in/api?id=walidbosso&label=Profile%20Views&color=1&icon=3&pretty=true"></a>
+
 
 
 <a href="https://github.com/walidbosso">   
@@ -133,8 +135,8 @@
 
 <p align="center">
  <br>
-
-
+<a href="https://github.com/walidbosso"><img align="center" width ="%" src="https://img.shields.io/github/followers/walidbosso?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
+<br/><br/>
 <a href="https://github.com/walidbosso">
 
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
