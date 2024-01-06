@@ -104,6 +104,14 @@
 | <p align="center">[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/walidbosso) |<p align="center"> [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)](https://github.com/walidbosso) |<p align="center"> [![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)](https://github.com/walidbosso) |                                                   |  <p align="center"> [![Intelij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)](https://github.com/walidbosso)      |  <p align="center">[![Postman](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/walidbosso)                                                  |                                                 |
 
 
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/walidbosso/details/education" title="University"><img src="./images/uae.png" alt="Uni" width="" height="200px" /></a>
+<a href="https://www.linkedin.com/in/walidbosso/details/certifications" title="Certificates"><img src="./images/Certificates1.png" alt="Cert" width="200px" height="200px" /></a>
+<a href="https://www.linkedin.com/in/walidbosso/details/education" title="University"><img src="./images/uae.png" alt="Uni" width="" height="200px" /></a>
+ 
+</p>
 </div>
 
 
