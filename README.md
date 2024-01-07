@@ -219,11 +219,10 @@
 [![ajax Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=AJAX-XML\&theme=github_dark)](https://github.com/walidbosso/AJAX-XML)
 [![walidbosso Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=walidbosso\&theme=algolia)](https://github.com/walidbosso/walidbosso)[![Selenium-Web-Automation-Trello Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Selenium-Web-Automation-Trello\&theme=algolia)](https://github.com/walidbosso/Selenium-Web-Automation-Trello)  
 
+[![ALL REPOS](https://github-contributor-stats.vercel.app/api?username=walidbosso&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide=walidbosso)](https://github.com/walidbosso?tab=repositories&q=&type=&language=&sort=stargazers)
 
-[![](https://github-contributor-stats.vercel.app/api?username=walidbosso&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide=walidbosso)](https://github.com/walidbosso?tab=repositories&q=&type=&language=&sort=stargazers)
-
+[![SpringBoot-Angular-TrainingCenter-Management Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=SpringBoot-Angular-TrainingCenter-Management\&theme=algolia)](https://github.com/walidbosso/SpringBoot-Angular-TrainingCenter-Management)
 [![MERN_Stack_BlogProject Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=MERN_Stack_BlogProject\&theme=algolia)](https://github.com/walidbosso/MERN_Stack_BlogProject)
-
 [![matlab Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=MATLAB_Image_processing_app\&theme=github_dark)](https://github.com/walidbosso/MATLAB_Image_processing_app)
 [![pythonGUI Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Python-GUI\&theme=github_dark)](https://github.com/walidbosso/Python-GUI)
 [![opencv Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Python_tracking\&theme=holi)](https://github.com/walidbosso/Python_tracking)
