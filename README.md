@@ -108,8 +108,8 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/walidbosso/details/certifications" title="Certificates"><img src="./images/Certificates1.png" alt="Cert" width="200px" height="200px" /></a>
-<a href="https://www.linkedin.com/in/walidbosso/details/education" title="University"><img src="./images/uae.png" alt="Uni" width="" height="200px" /></a>
+<a href="https://www.linkedin.com/in/walidbosso/details/certifications" title="💻 My Certificates"><img src="./images/Certificates1.png" alt="Cert" width="200px" height="200px" /></a>
+<a href="https://www.linkedin.com/in/walidbosso/details/education" title="🎓 Master's in Computer Science Engineering, University Abdelmalek Essaâd"><img src="./images/uae.png" alt="Uni" width="" height="200px" /></a>
  
 </p>
 </div>
@@ -167,12 +167,12 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=algolia" width="100%" /> </br></br>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=algolia" width="31%" align="right"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=walidbosso&theme=algolia" width="31%" align="center"/>  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=walidbosso&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
 </br></br>
  </a>
 <a href="https://github.com/walidbosso"> 
- <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution ststa" width="%" /></br></br>
+ <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
   </a> 
   
  [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=algolia&card_width=1000)](https://github.com/walidbosso) </br></br>
@@ -180,12 +180,12 @@
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=walidbosso&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/walidbosso) 
 </div>
 <a href="https://user-badge.committers.top/morocco/walidbosso"> 
- <img align="center" src="https://aktive.kerolloz.dev/morocco/walidbosso?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2" width="">    
+ <img align="center" src="https://aktive.kerolloz.dev/morocco/walidbosso?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="">    
 </a>
 <br/><br/>
 
 <a href="https://youtube.com/shorts/HWNQxME4r5E?feature=share"> 
- <img align="center" src="https://img.shields.io/badge/%20%20Press%20to%20watch%20my%202023-%20Github%20unwrapped%20-41c350.svg?style=flat&logo=github&logoColor=41c350&labelColor=01102d&color=6eb9f2" width="">    
+ <img align="center" src="https://img.shields.io/badge/%20%20Press%20to%20watch%20my%202023-%20Github%20unwrapped%20-41c350.svg?logo=github&logoColor=41c350&labelColor=01102d&color=6eb9f2&style=for-the-badge" width="">    
 </a><br/><br/>
  <div align="center">
 </p >
@@ -197,7 +197,7 @@
 
 <p align="center">
 <a href="https://github.com/walidbosso">
-   <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-darkBlue.svg" />
+   <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
 </a>
 </p>
 
@@ -300,7 +300,7 @@ Currently Coding and Listening
 </a>
 
  
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/walidbosso)
+[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/walidbosso)
 
 
 
@@ -322,7 +322,7 @@ Currently Coding and Listening
 </p>
 
 <p align="center">
-<a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="./images/clock.svg" alt="Clock" width="200px" height="200px"></a><a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="./images/xlzpyflf.png" alt="Clock" width="200px" height="200px"></a>
+<a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="./images/clock.svg" alt="Clock" width="200px" height="200px" title="⌚ Front-End"></a><a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="./images/xlzpyflf.png" alt="Clock" width="200px" height="200px" title="⚙️ Back-End"></a>
  
 </p>
 
@@ -366,7 +366,7 @@ Currently Coding and Listening
 
 <!--THANKS-->
  <p align="center">
-<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" /></a>
+<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
 
