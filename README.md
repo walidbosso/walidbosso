@@ -108,7 +108,6 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/walidbosso/details/education" title="University"><img src="./images/uae.png" alt="Uni" width="" height="200px" /></a>
 <a href="https://www.linkedin.com/in/walidbosso/details/certifications" title="Certificates"><img src="./images/Certificates1.png" alt="Cert" width="200px" height="200px" /></a>
 <a href="https://www.linkedin.com/in/walidbosso/details/education" title="University"><img src="./images/uae.png" alt="Uni" width="" height="200px" /></a>
  
