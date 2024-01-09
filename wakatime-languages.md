@@ -4,19 +4,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 December 2023 - To: 06 January 2024
+From: 15 December 2023 - To: 08 January 2024
 
 Total Time: 12 hrs 36 mins
 
-Python            7 hrs 29 mins   ██████████████▓░░░░░░░░░░   58.90 %
-TypeScript        2 hrs 34 mins   █████░░░░░░░░░░░░░░░░░░░░   20.29 %
-Java              55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Bash              31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Markdown          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-CLASS             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Python            7 hrs 29 mins   ██████████████▓░░░░░░░░░░   58.73 %
+TypeScript        2 hrs 34 mins   █████░░░░░░░░░░░░░░░░░░░░   20.23 %
+Java              55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Bash              31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Markdown          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+CLASS             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 Java Properties   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 Groovy            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Other             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Other             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
