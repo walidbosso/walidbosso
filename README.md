@@ -41,7 +41,7 @@
 ### Congratulations you found me
 
 - 👨‍💻 I’m currently working on web development technologies like `Spring Boot`, `React`, `Angular` etc.
-- 📚 I’m currently learning **React Native, [Selenium](https://github.com/walidbosso/Selenium-Web-Automation-Trello) and Machine Learning technologies** 😅
+- 📚 I’m currently learning **React Native, [Selenium](https://github.com/walidbosso/Selenium-Web-Testing-Trello) and Machine Learning technologies** 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 
@@ -225,7 +225,7 @@
 [![CV_BOUSSOU_Walid Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=CV_BOUSSOU_Walid\&theme=holi)](https://github.com/walidbosso/CV_BOUSSOU_Walid)
 [![JavaScript Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=JavaScript_Projects_Clock_calc_todo_gallery_bgcolor\&theme=github_dark)](https://github.com/walidbosso/JavaScript_Projects_Clock_calc_todo_gallery_bgcolor)
 [![ajax Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=AJAX-XML\&theme=github_dark)](https://github.com/walidbosso/AJAX-XML)
-[![walidbosso Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=walidbosso\&theme=algolia)](https://github.com/walidbosso/walidbosso)[![Selenium-Web-Automation-Trello Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Selenium-Web-Automation-Trello\&theme=algolia)](https://github.com/walidbosso/Selenium-Web-Automation-Trello)  
+[![walidbosso Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=walidbosso\&theme=algolia)](https://github.com/walidbosso/walidbosso)[![Selenium-Web-Testing-Trello Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Selenium-Web-Testing-Trello\&theme=algolia)](https://github.com/walidbosso/Selenium-Web-Testing-Trello)  
 
 [![ALL REPOS](https://github-contributor-stats.vercel.app/api?username=walidbosso&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide=walidbosso)](https://github.com/walidbosso?tab=repositories&q=&type=&language=&sort=stargazers)
 
