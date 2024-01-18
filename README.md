@@ -148,7 +148,7 @@
 
 <p align="center"> 
 <a href="https://user-badge.committers.top/morocco/walidbosso"> 
- <img align="center" src="https://aktive.kerolloz.dev/morocco/walidbosso?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />    
+<!--  <img align="center" src="https://aktive.kerolloz.dev/morocco/walidbosso?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />     -->
 </a></p >
 
  <p align="center">
@@ -193,7 +193,7 @@
 
 
 <a href="https://youtube.com/shorts/HWNQxME4r5E?feature=share"> 
- <img align="center" src="https://img.shields.io/badge/%20%20Press%20to%20watch%20my%202023-%20Github%20unwrapped%20-41c350.svg?logo=github&logoColor=41c350&labelColor=01102d&color=6eb9f2&style=for-the-badge" width="">    
+<!--  <img align="center" src="https://img.shields.io/badge/%20%20Press%20to%20watch%20my%202023-%20Github%20unwrapped%20-41c350.svg?logo=github&logoColor=41c350&labelColor=01102d&color=6eb9f2&style=for-the-badge" width="">     -->
 </a><br/><br/>
  <div align="center">
 </p >
