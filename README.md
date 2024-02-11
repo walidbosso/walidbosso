@@ -41,7 +41,7 @@
 ### Congratulations you found me
 
 - 👨‍💻 I’m currently working on web development technologies like `Spring Boot`, `React`, `Angular` etc.
-- 📚 I’m currently learning **[React Native](https://github.com/walidbosso/React-native-projects), [Selenium](https://github.com/walidbosso/Selenium-Web-Testing-Trello) and Machine Learning technologies** 😅
+- 📚 I’m currently learning **SOAP, Jenkins and Machine Learning technologies** 😅
 - 💪🏼 Future Goals: Learn more technologies, starting next with **Docker & Kubernetees** - Never stop creating new ideas.
 
 
