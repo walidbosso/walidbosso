@@ -40,7 +40,7 @@
 
 ### Congratulations you found me
 
-- 👨‍💻 I’m currently working on web development technologies like `Spring Boot`, `React`, `Angular` etc.
+- 👨‍💻 I’m currently working on web development technologies like `Spring Boot`, `Angular`, `React` etc.
 - 📚 I’m currently learning **SOAP, Jenkins and Machine Learning technologies** 😅
 - 💪🏼 Future Goals: Learn more technologies, starting next with **Docker & Kubernetees** - Never stop creating new ideas.
 
