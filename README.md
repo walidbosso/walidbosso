@@ -1,6 +1,6 @@
 <p align="right">
 <a href="https://github.com/walidbosso"> 
-<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwalidbosso%2Fhit-counter&count_bg=%231A1DCF&title_bg=%232292E1&icon=workplace.svg&icon_color=%231A1DCF&title=Profile+Views&edge_flat=true" width="0px">    
+<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwalidbosso%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views&edge_flat=true" width="0px">    
 </a></p>
 
 <a href="https://github.com/walidbosso"> 
@@ -196,8 +196,8 @@
 
 <a href="https://youtube.com/shorts/HWNQxME4r5E?feature=share"> 
  
-<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwalidbosso%2Fhit-counter&count_bg=%231A1DCF&title_bg=%232292E1&icon=workplace.svg&icon_color=%231A1DCF&title=Profile+Views&edge_flat=true)" width="">    
-<!--  
+
+<!--  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwalidbosso%2Fhit-counter&count_bg=%6EB9F2&title_bg=%01102D&icon=workplace.svg&icon_color=%41C350&title=Profile+Views&edge_flat=true" width="">    
  <img align="center" src="https://img.shields.io/badge/%20%20Press%20to%20watch%20my%202023-%20Github%20unwrapped%20-41c350.svg?logo=github&logoColor=41c350&labelColor=01102d&color=6eb9f2&style=for-the-badge" width="">     -->
 </a><br/><br/>
  <div align="center">
