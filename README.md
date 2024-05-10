@@ -40,7 +40,7 @@
 ### Congratulations you found me
 
 - 👨‍💻 I’m currently working on web development technologies like `Spring Boot`, `Angular`, `React` etc.
-- 📚 I’m currently learning **SOAP, Jenkins and Sonar** 😅
+- 📚 I’m currently learning **Docker, JUnit and Mockito** 😅
 - 💪🏼 Future Goals: Learn more technologies, starting next with **SAP Commerce** - Never stop creating new ideas.
 
 
