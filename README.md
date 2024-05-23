@@ -166,7 +166,7 @@
 
  
 
-<details align="center">
+<details open align="center">
   <summary>📈 More Stats</summary>
   <br>
  
@@ -300,7 +300,7 @@ Currently Coding and Listening
 
 <!--MORE SONGS-->
 
-<details align="center">
+<details open align="center">
   <summary>💚 More Songs & More things</summary>
   <br>
 
