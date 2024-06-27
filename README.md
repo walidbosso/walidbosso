@@ -220,7 +220,7 @@
 <!--More REPOSITORIES-->
 
 
-<details align="center">
+<details open align="center">
   <summary>📁 More Repositories</summary>
   <br>
 
