@@ -387,8 +387,13 @@ Currently Coding and Listening
   <img width="30" align ="right"  src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
 
 
-<!--THANKS-->
  <p align="center">
+ <a href="https://github.com/walidbosso"><img src="https://github.com/user-attachments/assets/bb0eb1a9-234a-43a7-9bd6-ebbade6712a3" align="center" /> </a>
+</p>
+
+
+<!--THANKS-->
+ <p align="center">  
 <a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
@@ -397,6 +402,9 @@ Currently Coding and Listening
  <p align="center">
   <a href="https://github.com/walidbosso"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
 </p>
+
+
+
 
 
 <!--
