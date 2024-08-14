@@ -290,28 +290,28 @@
 
 <br>
 <h4 align="center">
-Currently Coding and Listening
+<!-- Currently Coding and Listening -->
 </h4>
  <div align="center">
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-
+<a href="https://github.com/walidbosso"> 
+  <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21omxceo7j24upe246denzrgy" alt="Data Card for Spotify">
+</a>
   
-  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)
+ <!-- [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)--> 
 
   
 
 <!--MORE SONGS-->
 
 <details open align="center">
-  <summary>💚 More Songs & More things</summary>
+  <summary>💚 More</summary>
   <br>
 
 
-<a href="https://github.com/walidbosso"> 
-  <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21omxceo7j24upe246denzrgy" alt="Data Card for Spotify">
-</a>
+
   
 <!--QUOTE-->
 <br/><br/>
