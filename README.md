@@ -403,8 +403,8 @@
   <a href="https://github.com/walidbosso"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
 </p>
 
-<p ><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo=code" alt="Back to Top" align="right" /></a></p>
-<p ><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=2341C350&style=flat&logo=medium" alt="Back to Top" align="left" /></a></p>
+<p ><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=0b6ab3&style=flat&logo=code" alt="Back to Top" align="right" /></a></p>
+<p ><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=0b6ab3&style=flat&logo=medium" alt="Back to Top" align="left" /></a></p>
 
 
 
