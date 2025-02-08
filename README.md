@@ -22,9 +22,6 @@
 <br/>
 
 
-
-
-
 <!--Intro-->
 
  
@@ -37,18 +34,20 @@
 </a>
 
 
-### Congratulations you found me
+> [!CAUTION]
+> - 🔺 Congratulations you found me
 
-- 👨‍💻 I’m currently working on web development technologies like `Spring Boot`, `Angular`, `React` etc.
-- 📚 I’m currently learning **Docker, JUnit and Mockito** 😅
-- 💪🏼 Future Goals: Learn more technologies, starting next with **SAP Commerce** - Never stop creating new ideas.
+> [!NOTE]
+> - 🫐 I’m currently working on web development technologies like `Spring Boot`, `Angular`, `React` etc.
 
+> [!IMPORTANT]  
+> - 💪🏼 Future Goals: Learn more technologies, starting next with **SAP Commerce** - Never stop creating new ideas.
 
+> [!WARNING]  
+> - 📚 I’m currently learning **Docker, JUnit and Mockito** 😅
 
-<!--Contact-->
-
-### Contact me:
-
+> [!TIP]  
+> - 📗 If you're interested in collaborating or have any questions — I'd love to hear from you!
 
 
 <p align="center">
