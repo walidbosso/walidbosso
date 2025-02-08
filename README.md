@@ -40,11 +40,11 @@
 > [!NOTE]
 > - 🫐 I’m currently working on web development technologies like `Spring Boot`, `Angular`, `React` etc.
 
-> [!IMPORTANT]  
-> - 💪🏼 Future Goals: Learn more technologies, starting next with **SAP Commerce** - Never stop creating new ideas.
+> [!IMPORTANT]
+> - 📚 I’m currently learning **Docker, Jenkins and Grafana** 😅
 
 > [!WARNING]  
-> - 📚 I’m currently learning **Docker, JUnit and Mockito** 😅
+> - 💪🏼 Future Goals: Learn more technologies, starting next with **SAP Commerce** - Never stop creating new ideas.
 
 > [!TIP]  
 > - 📗 If you're interested in collaborating or have any questions — I'd love to hear from you!
