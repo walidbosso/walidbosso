@@ -35,10 +35,10 @@
 
 
 > [!CAUTION]
-> - 🔺 Congratulations you found me
+> - 🔖 Congratulations you found me
 
 > [!NOTE]
-> - 🫐 I’m currently working on web development technologies like `Spring Boot`, `Angular`, `React` etc.
+> - 🚙 I’m currently working on web development technologies like `Spring Boot`, `Angular`, `React` etc.
 
 > [!IMPORTANT]
 > - 📚 I’m currently learning **Docker, Jenkins and Grafana** 😅
