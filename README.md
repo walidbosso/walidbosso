@@ -49,7 +49,6 @@
 > [!TIP]  
 > - 📗 If you're interested in collaborating or have any questions — I'd love to hear from you!
 
-> ⚓ 
 > <p align="center">
 >  <a href="https://www.linkedin.com/in/walidbosso" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 >   <a href="http://walidbosso.byethost12.com/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
