@@ -148,7 +148,7 @@
 
 <p align="center"> 
 <a href="https://user-badge.committers.top/morocco/walidbosso"> 
-<!--  <img align="center" src="https://aktive.kerolloz.dev/morocco/walidbosso?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />     -->
+<img align="center" src="https://aktive.kerolloz.dev/morocco/walidbosso?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />  
 </a></p >
 
  <p align="center">
@@ -170,11 +170,11 @@
 <details open align="center">
   <summary>📈 More Stats</summary>
   <br>
- 
+ <!--
 <p align="center">
 <a href="https://github.com/walidbosso"> 
 <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwalidbosso%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+03/2024)&edge_flat=true" width="">    
-</a></p>
+</a></p> -->
 
 <p align="center">
 <div align="center">
@@ -190,7 +190,7 @@
  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
   </a> 
   
- <!-- [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=algolia&card_width=1000)](https://github.com/walidbosso) -->
+  [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=algolia&card_width=1000)](https://github.com/walidbosso)
 
  
  </br></br>
