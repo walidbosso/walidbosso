@@ -1,5 +1,3 @@
-
-
 <a href="https://github.com/walidbosso"> 
  <img align="center" src="./images/header.png" width="100%">    
 </a>
@@ -137,9 +135,6 @@
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
  
-
-
-
 <p align="center">
  <br/>
 <a href="https://github.com/walidbosso"><img align="center" width ="%" src="https://img.shields.io/github/followers/walidbosso?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
@@ -159,6 +154,10 @@
 </a>
 
 <br/>
+ </br></br>
+<a href="https://github.com/walidbosso">
+<img align="center"  width="75%" src="https://s01.flagcounter.com/countxl/DP79/bg_01102D/txt_6EB9F2/border_6EB9F2/columns_8/maxflags_250/viewers_++Profile+views+since+25+Mai+2025/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+ </br></br>
 
 </p >
 
