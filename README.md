@@ -154,10 +154,7 @@
 </a>
 
 <br/>
- </br></br>
-<a href="https://github.com/walidbosso">
-<img align="center"  width="75%" src="https://s01.flagcounter.com/countxl/DP79/bg_01102D/txt_6EB9F2/border_6EB9F2/columns_8/maxflags_250/viewers_++Profile+views+since+25+Mai+2025/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
- </br></br>
+ 
 
 </p >
 
@@ -191,6 +188,10 @@
   
   [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=algolia&card_width=1000)](https://github.com/walidbosso)
 
+</br>
+<a href="https://github.com/walidbosso">
+<img align="center"  width="100%" src="https://s01.flagcounter.com/countxl/DP79/bg_01102D/txt_6EB9F2/border_6EB9F2/columns_8/maxflags_250/viewers_++Profile+views+since+25+Mai+2025/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+ </br>
  
  </br></br>
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=walidbosso&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/walidbosso) </br>
