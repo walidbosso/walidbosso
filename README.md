@@ -404,6 +404,40 @@
  <a href="https://github.com/walidbosso"><img src="https://github.com/user-attachments/assets/bb0eb1a9-234a-43a7-9bd6-ebbade6712a3" align="center" /> </a>
 </p>
 
+<div align="center">
+ 
+ <details open disabled>
+
+<summary>👏 Thanks for the support </summary>
+
+## Stargazers
+
+
+<div align="center">
+
+[![Stargazers repo roster for @walidbosso/walidbosso](http://reporoster.com/stars/dark/walidbosso/walidbosso)](https://github.com/walidbosso/walidbosso/stargazers)
+
+
+
+</div>
+
+## Forkers
+
+<div align="center" >
+
+[![Forkers repo roster for @walidbosso/walidbosso](http://reporoster.com/forks/dark/walidbosso/walidbosso)](https://github.com/walidbosso/walidbosso/network/members)
+
+</div>
+
+## Contributors
+
+<a href = "https://github.com/walidbosso">
+  <img src = "https://contrib.rocks/image?repo=walidbosso/walidbosso"/>
+</a>
+
+
+<br/></details><br/> </p>
+
 
 <!--THANKS-->
  <p align="center">  
