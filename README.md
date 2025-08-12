@@ -204,7 +204,7 @@
  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
   </a> 
   
-  [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=algolia&card_width=1000)](https://github.com/walidbosso)
+<!--  [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=algolia&card_width=1000)](https://github.com/walidbosso) -->
 
 </br>
 <a href="https://github.com/walidbosso">
