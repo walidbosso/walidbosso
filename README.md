@@ -208,7 +208,7 @@
 
 </br>
 <a href="https://github.com/walidbosso">
-<img align="center"  width="100%" src="https://s01.flagcounter.com/countxl/DP79/bg_01102D/txt_6EB9F2/border_01102D/columns_8/maxflags_250/viewers_Unique+Views+Per+Country+(since+25+Mai+2025)/labels_1/page_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<img align="center"  width="100%" src="https://s01.flagcounter.com/countxl/DP79/bg_01102D/txt_6EB9F2/border_01102D/columns_8/maxflags_250/viewers_++Unique+Views+Per+Country+since+25+Mai+2025/labels_1/page_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=walidbosso&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/walidbosso) </br>
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=walidbosso&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/walidbosso) 
