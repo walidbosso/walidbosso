@@ -139,7 +139,15 @@
 </h3>
 
 <a href="https://github.com/walidbosso">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  /><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+</picture><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+</picture>
 </a>
 
  
@@ -224,9 +232,20 @@
 
 
 <p align="center">
+ 
 <a href="https://github.com/walidbosso">
    <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
 </a>
+
+<a href="https://github.com/walidbosso">
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/pacman-contribution-graph-dark.svg">
+  <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/pacman-contribution-graph.svg"> -->
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/walidbosso/output/pacman-contribution-graph.svg">
+</picture>
+ </a>
+
 </p>
 
 
