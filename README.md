@@ -227,9 +227,9 @@
 <a href="https://github.com/walidbosso">
 
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/pacman-contribution-graph-dark.svg">
-  <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/output/pacman-contribution-graph.svg"> -->
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/walidbosso/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/pcman/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/walidbosso/walidbosso/pacman/pacman-contribution-graph.svg">
 </picture>
  </a>
 
