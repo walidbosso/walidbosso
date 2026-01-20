@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 December 2023 - To: 18 January 2026
+From: 15 December 2023 - To: 19 January 2026
 
-Total Time: 976 hrs 1 min
+Total Time: 976 hrs 52 mins
 
-Java                  565 hrs 19 mins ██████████████░░░░░░░░░░░   55.52 %
-XML                   58 hrs 58 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-TypeScript            44 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Java                  565 hrs 19 mins ██████████████░░░░░░░░░░░   55.47 %
+XML                   59 hrs 3 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+TypeScript            45 hrs 22 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 Other                 42 hrs 15 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
 ```
 
