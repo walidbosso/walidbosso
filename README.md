@@ -257,8 +257,9 @@
 [![ajax Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=AJAX-XML\&theme=algolia)](https://github.com/walidbosso/AJAX-XML)
 -->
 
+<!--
 [![ALL REPOS](https://github-contributor-stats.vercel.app/api?username=walidbosso&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide=walidbosso)](https://github.com/walidbosso?tab=repositories&q=&type=&language=&sort=stargazers)
-
+-->
 
 
  ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=@walidbosso&no-frame=true&layout=compact&&theme=algolia&link="https://www.github.com/walidbosso/") 
