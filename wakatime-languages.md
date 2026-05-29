@@ -6,9 +6,9 @@
 ```rust
 From: 15 December 2023 - To: 27 May 2026
 
-Total Time: 1,346 hrs 26 mins
+Total Time: 1,346 hrs 28 mins
 
-Java                           790 hrs 48 mins       ██████████████░░░░░░░░░░░   56.35 %
+Java                           790 hrs 49 mins       ██████████████░░░░░░░░░░░   56.35 %
 XML                            95 hrs 12 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
 TypeScript                     88 hrs 51 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
 Other                          57 hrs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
